@@ -1,0 +1,44 @@
+{
+  "id": "2636520",
+  "name": "table-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2443512",
+      "name": "cos",
+      "font_class": "cos",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "5172937",
+      "name": "汉服-女-褙子",
+      "font_class": "nvkuan",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "13205893",
+      "name": "婚纱",
+      "font_class": "hunsha",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "14556041",
+      "name": "手办",
+      "font_class": "shouban",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "15527275",
+      "name": "礼服",
+      "font_class": "lifu",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}
